@@ -1,0 +1,8 @@
+30 / 6 = 5.0
+15 + 16 = 31
+12 * 10 = 120
+8 - 0 = 8
+11 / 0 - Division by zero not allowed (ZeroDivisionError)
+b / 5 - Division cannot be performed (ValueError)
+10 / 10 = 1.0
+0 + 4 = 4
